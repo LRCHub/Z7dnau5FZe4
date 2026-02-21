@@ -1,0 +1,48 @@
+# Slushii – All I Need
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:22.20] All I need's a little time
+[00:26.79] To get behind the sun and cast my weight
+[00:32.32] All I need's peace this mind
+[00:36.93] I can celebrate
+[00:44.43] 
+[00:42.59] All in all, there's something to give
+[00:45.65] (All in all, there's something to give)
+[00:47.84] All in all, there's something to do
+[00:50.61] (All in all, there's something to do)
+[00:53.20] All in all, there's something to live
+[00:57.63] With you
+[01:01.63] 
+[01:02.59] With you
+[01:06.59] 
+[01:06.96] Our way
+[01:12.22] Our way
+[01:17.32] Our way
+[01:20.82] 
+[01:27.73] All I need's a little sign
+[01:32.90] To get behind this sun and cast this
+[01:35.97] Weight (Get behind this sun) of mine
+[01:38.25] All I need's the place to find
+[01:42.64] And there I'll celebrate
+[01:54.64] 
+[01:48.31] All in all, there's something to give
+[01:51.36] (All in all, there's something to give)
+[01:53.50] All in all, there's something to do
+[01:56.39] (All in all, there's something to do)
+[01:58.86] All in all, there's something to live
+[02:03.48] With you
+[02:07.48] 
+[02:08.64] With you
+[02:12.64] 
+[02:12.88] Our way
+[02:17.83] Our way
+[02:23.06] Our way
+[02:26.56] 
+[02:34.07] All I need
+[02:39.07] 
+[03:41.31] Our way
+[03:46.35] Our way
+[03:51.65] Our way
+```
