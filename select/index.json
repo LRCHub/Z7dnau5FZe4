@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "All I Need",
+  "base_artist": "Slushii",
+  "createdAt": "2026-02-21T03:03:39.579497Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All I Need to Know",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/01_All_I_Need_to_Know_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "That's All I Need to Know",
+      "artist": "Alan Jackson",
+      "has_synced": false,
+      "path": "select/02_That's_All_I_Need_to_Know_Alan_Jackson.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All I Need",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/03_All_I_Need_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All I Need",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/04_All_I_Need_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All I Need",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/05_All_I_Need_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All I Need",
+      "artist": "Method Man",
+      "has_synced": true,
+      "path": "select/06_All_I_Need_Method_Man.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "all i need",
+      "artist": "umru feat. Fraxiom, Tony Velour & Hannah Diamond",
+      "has_synced": true,
+      "path": "select/07_all_i_need_umru_feat._Fraxiom,_Tony_Velour_&_Hannah_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "all i need",
+      "artist": "umru",
+      "has_synced": true,
+      "path": "select/08_all_i_need_umru.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "all i need (Gupi Remix) [feat. Hannah Diamond & Tony Velour]",
+      "artist": "umru feat. Fraxiom, Hannah Diamond, Tony Velour & Gupi",
+      "has_synced": true,
+      "path": "select/09_all_i_need_(Gupi_Remix)_[feat._Hannah_Diamond_&_Tony_Velour]_umru_feat._Fraxiom,_Hannah_Diamond,_Tony_Velour_&_Gupi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "all i need (Gupi Remix)",
+      "artist": "Umru",
+      "has_synced": true,
+      "path": "select/10_all_i_need_(Gupi_Remix)_Umru.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I've All I Need",
+      "artist": "Liam Gallagher",
+      "has_synced": true,
+      "path": "select/11_I've_All_I_Need_Liam_Gallagher.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I've All I Need",
+      "artist": "Liam Gallagher",
+      "has_synced": true,
+      "path": "select/12_I've_All_I_Need_Liam_Gallagher.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "All I Need (All I Don't)",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/13_All_I_Need_(All_I_Don't)_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "All I Need",
+      "artist": "Aaliyah",
+      "has_synced": true,
+      "path": "select/14_All_I_Need_Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "All I Need",
+      "artist": "Air",
+      "has_synced": true,
+      "path": "select/15_All_I_Need_Air.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "All I Need",
+      "artist": "Al Green",
+      "has_synced": true,
+      "path": "select/16_All_I_Need_Al_Green.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "All I Need (Edit)",
+      "artist": "Air",
+      "has_synced": true,
+      "path": "select/17_All_I_Need_(Edit)_Air.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "All I Need",
+      "artist": "Slushii",
+      "has_synced": false,
+      "path": "select/pl_01_All_I_Need_Slushii.txt"
+    }
+  ]
+}
